@@ -1,0 +1,22 @@
+{
+  "name": "js-factorial",
+  "version": "1.0.0",
+  "description": "An HTML5 app to calculate factorial",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fehaa/js-factorial.git"
+  },
+  "author": "Fernando Henrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fehaa/js-factorial/issues"
+  },
+  "homepage": "https://github.com/fehaa/js-factorial#readme"
+}
